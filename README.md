@@ -1,5 +1,5 @@
 <p align="center">
-  <pre style="font-family:monospace; font-size:11px; line-height:10px; color:#00e6ff; background:#000; padding:50px; border-radius:8px;">
+  <pre style="font-family:monospace; font-size:11px; line-height:10px; color:#00e6ff; background:#000; border-radius:8px;">
  ____  _       _       _                            
 |  _ \(_)_ __ | |__   | |   _   _  ___  _ __   __ _ 
 | | | | | '_ \| '_ \  | |  | | | |/ _ \| '_ \ / _\` |
