@@ -8,14 +8,14 @@
   <img src="https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City-red?style=for-the-badge" />
 </p>
 
-## 🧠 About — who am I
+## 🧠 About
 - 🎓 Third-year **Information Security** student — *Van Hien University (VHU)*  
 - 🕵️‍♂️ Focus: **Web Application Pentesting, Red Team, SOC basics**  
 - ⚙️ DevOps / DevSecOps: Docker, AWS EC2, Nginx, CI mindset  
 - ✍️ I publish CTF write-ups & research at: https://d1nhvar3n-blog.io.vn  
 - 🔭 Current: building **StoreLab** & **SocialMediaLab** (pentest intentionally-vulnerable apps)
 
-## 🧰 Tech Stack — Dark Rack (Dev + Infra + Pentest)
+## 🧰 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -48,7 +48,6 @@
 </p>
 
 <p align="center">
-  <!-- Tools & workflow -->
   <img src="https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white"/>
@@ -57,7 +56,7 @@
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 </p>
 
-## 🧾 Projects (Selected)
+## 🧾 Projects
 - **StoreLab** — Node/Express + MongoDB (NoSQLi, JWT, Bypass ACL, SSRF) — https://github.com/dinhvaren/StoreLab — Live: https://vhu-storelab.io.vn  
 - **SocialMediaLab** — Node/Express + MySQL (SQLi, XSS, Broken AC) — https://github.com/dinhvaren/SocialMediaLab — Live: https://vhu-minisocial.io.vn  
 - **d1nhvar3n Blog** — React + Markdown, deployed on Nginx — https://github.com/dinhvaren/d1nhvar3n-blog — Live: https://d1nhvar3n-blog.io.vn  
