@@ -1,14 +1,14 @@
 <p align="center">
-  <pre style="font-family:monospace; font-size:11px; line-height:10px; color:#00e6ff; background:#000; padding:12px; border-radius:8px;">
-                               ____  _       _       _                            
-                              |  _ \(_)_ __ | |__   | |   _   _  ___  _ __   __ _ 
-                              | | | | | '_ \| '_ \  | |  | | | |/ _ \| '_ \ / _\` |
-                              | |_| | | | | | | | | | |__| |_| | (_) | | | | (_| |
-                              |____/|_|_| |_|_| |_| |_____\__,_|\___/|_| |_|\__, |
-                                                                            |___/ 
-                                
-                                 d1nhvar3n — Lương Nguyễn Ngọc Đình
-                                 InfoSec Student • Red Team • DevSecOps
+  <pre style="font-family:monospace; font-size:11px; line-height:10px; color:#00e6ff; background:#000; padding:50px; border-radius:8px;">
+ ____  _       _       _                            
+|  _ \(_)_ __ | |__   | |   _   _  ___  _ __   __ _ 
+| | | | | '_ \| '_ \  | |  | | | |/ _ \| '_ \ / _\` |
+| |_| | | | | | | | | | |__| |_| | (_) | | | | (_| |
+|____/|_|_| |_|_| |_| |_____\__,_|\___/|_| |_|\__, |
+                                              |___/ 
+    
+    d1nhvar3n — Lương Nguyễn Ngọc Đình
+    InfoSec Student • Red Team • DevSecOps
   </pre>
 </p>
 <h4 align="center">
