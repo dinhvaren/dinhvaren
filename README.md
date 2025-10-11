@@ -62,14 +62,25 @@
 - Web Application Pentesting (TryHackMe) — Aug 2025  
 - Special Prize — Technology Innovation Contest 2025 (University Cluster 22)
 
-## 📈 GitHub Activity
+## 📊 GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dinhvaren&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinhvaren&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dinhvaren&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinhvaren&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhvaren&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dinhvaren&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhvaren&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <b>Total Contributions:</b> <img src="https://img.shields.io/badge/326-Contributions-blue?style=flat-square"/>  
+  <b>Current Streak:</b> <img src="https://img.shields.io/badge/7_days-active-success?style=flat-square"/>  
+  <b>Last 12 Months:</b> <img src="https://img.shields.io/badge/309-Commits-purple?style=flat-square"/>  
 </p>
 
 ## 📬 Contact
