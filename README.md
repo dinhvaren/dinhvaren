@@ -76,5 +76,5 @@
 <p align="center">
   <a href="mailto:dinhlnng2003@gmail.com"><img src="https://img.shields.io/badge/Email-dinhlnng2003%40gmail.com-blue?style=for-the-badge&logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/dinhvaren"><img src="https://img.shields.io/badge/LinkedIn-dinhvaren-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://dinhvaren.io.vn"><img src="https://img.shields.io/badge/Portfolio-dinhvaren.id.vn-black?style=for-the-badge" /></a>
+  <a href="https://dinhvaren.io.vn"><img src="https://img.shields.io/badge/Portfolio-dinhvaren.io.vn-black?style=for-the-badge" /></a>
 </p>
