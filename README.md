@@ -56,10 +56,26 @@
 </p>
 
 ## 🧾 Projects
-- **StoreLab** — Node/Express + MongoDB (NoSQLi, JWT, Bypass ACL, SSRF) — https://github.com/dinhvaren/StoreLab — Live: [https://vhu-storelab.io.vn](https://vhu-storelab.io.vn/)  
-- **SocialMediaLab** — Node/Express + MySQL (SQLi, XSS, Broken AC) — https://github.com/dinhvaren/SocialMediaLab — Live: https://vhu-minisocial.io.vn  
-- **d1nhvar3n Blog** — React + Markdown, deployed on Nginx — https://github.com/dinhvaren/d1nhvar3n-blog — Live: [https://blog.dinhvaren.io.vn](https://blog.dinhvaren.io.vn/)  
-- **NoiThatPhuQuy** — Full-stack furniture e-commerce (Node/Express/MongoDB) — https://github.com/dinhvaren/noithatphuquy — Live: [https://noithatphuquy.id.vn](https://noithatphuquy.id.vn/)
+- **VhuInfoSecLab** — Intentionally Vulnerable Web Apps for Pentest Training (XSS, SQLi, SSRF, Auth Bypass, etc.)  
+  — https://github.com/dinhvaren/VhuInfoSecLab — Live: https://vhuinfosec.io.vn/
+
+- **CVE-2026-33937 Lab** — Vulnerability Research & Exploit Lab (PoC, Analysis, Reproduction)  
+  — https://github.com/dinhvaren/cve-2026-33937 — Live: https://cve-2026-33937.vhuinfosec.io.vn/
+
+- **CVE-2021-23369 Lab** — Prototype Pollution → RCE Exploit Lab (Node.js)  
+  — https://github.com/dinhvaren/cve-2021-23369 — Live: https://cve-2021-23369.vhuinfosec.io.vn/
+
+- **StoreLab** — Node/Express + MongoDB (NoSQLi, JWT, Bypass ACL, SSRF)  
+  — https://github.com/dinhvaren/StoreLab — Live: https://vhu-storelab.io.vn/
+
+- **SocialMediaLab** — Node/Express + MySQL (SQLi, XSS, Broken Access Control)  
+  — https://github.com/dinhvaren/SocialMediaLab — Live: https://vhu-minisocial.io.vn  
+
+- **d1nhvar3n Blog** — React + Markdown, deployed on Nginx  
+  — https://github.com/dinhvaren/d1nhvar3n-blog — Live: https://blog.dinhvaren.io.vn  
+
+- **NoiThatPhuQuy** — Full-stack furniture e-commerce (Node/Express/MongoDB)  
+  — https://github.com/dinhvaren/noithatphuquy — Live: https://noithatphuquy.id.vn/
 
 ## 🏅 Certifications & Awards
 - API Penetration Testing (APIsec) — Jul 2025  
