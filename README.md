@@ -24,9 +24,6 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Ghidra-FC4C02?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/x64dbg-1F1F1F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Parrot%20OS-1E90FF?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -40,6 +37,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Burp--Suite-F37623?style=for-the-badge&logo=burpsuite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ghidra-FC4C02?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/x64dbg-1F1F1F?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Amass-0055FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/FFUF-FFB100?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Arjun-FF4B4B?style=for-the-badge"/>
@@ -53,6 +52,7 @@
   <img src="https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Parrot%20OS-1E90FF?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
 
 ## 🧾 Projects
