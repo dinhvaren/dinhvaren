@@ -10,10 +10,10 @@
 
 ## 🧠 About
 - 🎓 Third-year **Information Security** student — *Van Hien University (VHU)*  
-- 🕵️‍♂️ Focus: **Web Application Pentesting, Red Team, SOC basics**  
+- 🕵️‍♂️ Focus: **Web Application Pentesting, Red Team**  
 - ⚙️ DevOps / DevSecOps: Docker, AWS EC2, Nginx, CI mindset  
-- ✍️ I publish CTF write-ups & research at: https://d1nhvar3n-blog.io.vn  
-- 🔭 Current: building **StoreLab** & **SocialMediaLab** (pentest intentionally-vulnerable apps)
+- ✍️ I publish CTF write-ups & research at: [https://d1nhvar3n-blog.io.vn](https://blog.dinhvaren.io.vn/)  
+- 🔭 Current: building **cve-2026-33937** & **vhuinfoseclab** (pentest intentionally-vulnerable apps)
 
 ## 🧰 Tech Stack
 <p align="center">
@@ -52,10 +52,10 @@
 </p>
 
 ## 🧾 Projects
-- **StoreLab** — Node/Express + MongoDB (NoSQLi, JWT, Bypass ACL, SSRF) — https://github.com/dinhvaren/StoreLab — Live: https://vhu-storelab.io.vn  
+- **StoreLab** — Node/Express + MongoDB (NoSQLi, JWT, Bypass ACL, SSRF) — https://github.com/dinhvaren/StoreLab — Live: [https://vhu-storelab.io.vn](https://vhu-storelab.io.vn/)  
 - **SocialMediaLab** — Node/Express + MySQL (SQLi, XSS, Broken AC) — https://github.com/dinhvaren/SocialMediaLab — Live: https://vhu-minisocial.io.vn  
-- **d1nhvar3n Blog** — React + Markdown, deployed on Nginx — https://github.com/dinhvaren/d1nhvar3n-blog — Live: https://d1nhvar3n-blog.io.vn  
-- **NoiThatPhuQuy** — Full-stack furniture e-commerce (Node/Express/MongoDB) — https://github.com/dinhvaren/noithatphuquy — Live: https://noithatphuquy.id.vn
+- **d1nhvar3n Blog** — React + Markdown, deployed on Nginx — https://github.com/dinhvaren/d1nhvar3n-blog — Live: [https://d1nhvar3n-blog.io.vn](https://blog.dinhvaren.io.vn/)  
+- **NoiThatPhuQuy** — Full-stack furniture e-commerce (Node/Express/MongoDB) — https://github.com/dinhvaren/noithatphuquy — Live: [https://noithatphuquy.id.vn](https://noithatphuquy.id.vn/)
 
 ## 🏅 Certifications & Awards
 - API Penetration Testing (APIsec) — Jul 2025  
@@ -72,5 +72,5 @@
 <p align="center">
   <a href="mailto:dinhlnng2003@gmail.com"><img src="https://img.shields.io/badge/Email-dinhlnng2003%40gmail.com-blue?style=for-the-badge&logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/dinhvaren"><img src="https://img.shields.io/badge/LinkedIn-dinhvaren-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://dinhvaren.id.vn"><img src="https://img.shields.io/badge/Portfolio-dinhvaren.id.vn-black?style=for-the-badge" /></a>
+  <a href="https://dinhvaren.io.vn"><img src="https://img.shields.io/badge/Portfolio-dinhvaren.id.vn-black?style=for-the-badge" /></a>
 </p>
