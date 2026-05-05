@@ -8,14 +8,14 @@
   <img src="https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City-red?style=for-the-badge" />
 </p>
 
-## 🧠 About
-- 🎓 Third-year **Information Security** student — *Van Hien University (VHU)*  
-- 🕵️‍♂️ Focus: **Web Application Pentesting, Red Team**  
-- ⚙️ DevOps / DevSecOps: Docker, AWS EC2, Nginx, CI mindset  
-- ✍️ I publish CTF write-ups & research at: [https://blog.dinhvaren.io.vn](https://blog.dinhvaren.io.vn/)  
-- 🔭 Current: building **cve-2026-33937** & **vhuinfoseclab** (pentest intentionally-vulnerable apps)
+## About
+- Third-year **Information Security** student — *Van Hien University (VHU)*  
+- Focus: **Web Application Pentesting, Red Team**  
+- DevOps / DevSecOps: Docker, AWS EC2, Nginx, CI mindset  
+- I publish CTF write-ups & research at: [https://blog.dinhvaren.io.vn](https://blog.dinhvaren.io.vn/)  
+- Current: building **cve-2026-33937** & **vhuinfoseclab** (pentest intentionally-vulnerable apps)
 
-## 🧰 Tech Stack
+## Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -77,18 +77,18 @@
 - **NoiThatPhuQuy** — Full-stack furniture e-commerce (Node/Express/MongoDB)  
   — https://github.com/dinhvaren/noithatphuquy — Live: https://noithatphuquy.id.vn/
 
-## 🏅 Certifications & Awards
+## Certifications & Awards
 - API Penetration Testing (APIsec) — Jul 2025  
 - Web Application Pentesting (TryHackMe) — Aug 2025  
 - Special Prize — Technology Innovation Contest 2025 (University Cluster 22)
 
-## 📈 GitHub Activity
+## GitHub Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dinhvaren&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinhvaren&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
-## 📬 Contact
+## Contact
 <p align="center">
   <a href="mailto:dinhlnng2003@gmail.com"><img src="https://img.shields.io/badge/Email-dinhlnng2003%40gmail.com-blue?style=for-the-badge&logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/dinhvaren"><img src="https://img.shields.io/badge/LinkedIn-dinhvaren-0A66C2?style=for-the-badge&logo=linkedin" /></a>
