@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/Parrot%20OS-1E90FF?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
 
-## 🧾 Projects
+## Projects
 - **VhuInfoSecLab** — Intentionally Vulnerable Web Apps for Pentest Training (XSS, SQLi, SSRF, Auth Bypass, etc.)  
   — https://github.com/dinhvaren/VhuInfoSecLab — Live: https://vhuinfosec.io.vn/
 
