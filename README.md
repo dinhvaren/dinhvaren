@@ -60,7 +60,7 @@
   — https://github.com/dinhvaren/VhuInfoSecLab — Live: https://vhuinfosec.io.vn/
 
 - **CVE-2026-33937 Lab** — Vulnerability Research & Exploit Lab (PoC, Analysis, Reproduction)  
-  — https://github.com/dinhvaren/cve-2026-33937 — Live: https://cve-2026-33937.vhuinfosec.io.vn/
+  — https://github.com/dinhvaren/cve-2026-33937 — Live: https://freshshop.vhuinfosec.io.vn/
 
 - **CVE-2021-23369 Lab** — Prototype Pollution → RCE Exploit Lab (Node.js)  
   — https://github.com/dinhvaren/cve-2021-23369 — Live: https://cve-2021-23369.vhuinfosec.io.vn/
