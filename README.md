@@ -69,9 +69,11 @@
   — https://github.com/dinhvaren/noithatphuquy — Live: https://noithatphuquy.id.vn/
 
 ## Certifications & Awards
-- API Penetration Testing (APIsec) — Jul 2025  
-- Web Application Pentesting (TryHackMe) — Aug 2025  
-- Special Prize — Technology Innovation Contest 2025 (University Cluster 22)
+* Security Advisory Credit — React Router CVE-2026-55685 — Jun 2026
+* Security Advisory Credit — 9router CVE-2026-55638 & CVE-2026-55501 — Jun 2026
+* Special Prize — Technology Innovation Contest 2025 (University Cluster 22)
+* API Penetration Testing (APIsec) — Jul 2025  
+* Web Application Pentesting (TryHackMe) — Aug 2025  
 
 ## GitHub Activity
 <p align="center">
