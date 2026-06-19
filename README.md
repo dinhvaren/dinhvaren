@@ -62,15 +62,6 @@
 - **CVE-2026-33937 Lab** — Vulnerability Research & Exploit Lab (PoC, Analysis, Reproduction)  
   — https://github.com/dinhvaren/cve-2026-33937 — Live: https://freshshop.vhuinfosec.io.vn/
 
-- **CVE-2021-23369 Lab** — Prototype Pollution → RCE Exploit Lab (Node.js)  
-  — https://github.com/dinhvaren/cve-2021-23369 — Live: https://cve-2021-23369.vhuinfosec.io.vn/
-
-- **StoreLab** — Node/Express + MongoDB (NoSQLi, JWT, Bypass ACL, SSRF)  
-  — https://github.com/dinhvaren/StoreLab — Live: https://vhu-storelab.io.vn/
-
-- **SocialMediaLab** — Node/Express + MySQL (SQLi, XSS, Broken Access Control)  
-  — https://github.com/dinhvaren/SocialMediaLab — Live: https://vhu-minisocial.io.vn  
-
 - **d1nhvar3n Blog** — React + Markdown, deployed on Nginx  
   — https://github.com/dinhvaren/d1nhvar3n-blog — Live: https://blog.dinhvaren.io.vn  
 
