@@ -9,7 +9,7 @@
 </p>
 
 ## About
-- Third-year **Information Security** student — *Van Hien University (VHU)*  
+- Final-year **Information Security** student — *Van Hien University (VHU)*  
 - Focus: **Web Application Pentesting, Red Team**  
 - DevOps / DevSecOps: Docker, AWS EC2, Nginx, CI mindset  
 - I publish CTF write-ups & research at: [https://blog.dinhvaren.io.vn](https://blog.dinhvaren.io.vn/)  
