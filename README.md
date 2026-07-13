@@ -65,15 +65,12 @@
 - **d1nhvar3n Blog** — React + Markdown, deployed on Nginx  
   — https://github.com/dinhvaren/d1nhvar3n-blog — Live: https://blog.dinhvaren.io.vn  
 
-- **NoiThatPhuQuy** — Full-stack furniture e-commerce (Node/Express/MongoDB)  
-  — https://github.com/dinhvaren/noithatphuquy — Live: https://noithatphuquy.id.vn/
-
 ## Certifications & Awards
+* Security Advisory Credit — PraisonAI CVE-2026-61426, CVE-2026-61428, CVE-2026-61429 & CVE-2026-60091 — Jul 2026
+* Security Advisory Credit — 9router CVE-2026-56675, CVE-2026-56676 & CVE-2026-56678 — Jul 2026
 * Security Advisory Credit — React Router CVE-2026-55685 — Jun 2026
 * Security Advisory Credit — 9router CVE-2026-55638 & CVE-2026-55501 — Jun 2026
 * Special Prize — Technology Innovation Contest 2025 (University Cluster 22)
-* API Penetration Testing (APIsec) — Jul 2025  
-* Web Application Pentesting (TryHackMe) — Aug 2025  
 
 ## GitHub Activity
 <p align="center">
