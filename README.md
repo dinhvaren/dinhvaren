@@ -66,7 +66,8 @@
   — https://github.com/dinhvaren/d1nhvar3n-blog — Live: https://blog.dinhvaren.io.vn  
 
 ## Certifications & Awards
-* Security Advisory Credit — PraisonAI CVE-2026-61426, CVE-2026-61428, CVE-2026-61429 & CVE-2026-60091 — Jul 2026
+* Security Advisory Credit — PraisonAI CVE-2026-61430, CVE-2026-61429, CVE-2026-61428, CVE-2026-61427, CVE-2026-
+61426, CVE-2026-60091 — Jul 2026
 * Security Advisory Credit — 9router CVE-2026-56675, CVE-2026-56676 & CVE-2026-56678 — Jul 2026
 * Security Advisory Credit — React Router CVE-2026-55685 — Jun 2026
 * Security Advisory Credit — 9router CVE-2026-55638 & CVE-2026-55501 — Jun 2026
