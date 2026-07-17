@@ -13,7 +13,6 @@
 - Focus: **Web Application Pentesting, Red Team**  
 - DevOps / DevSecOps: Docker, AWS EC2, Nginx, CI mindset  
 - I publish CTF write-ups & research at: [https://blog.dinhvaren.io.vn](https://blog.dinhvaren.io.vn/)  
-- Current: building **vhuinfoseclab** (pentest intentionally-vulnerable apps)
 
 ## Tech Stack
 <p align="center">
