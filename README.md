@@ -58,11 +58,9 @@
 - **VhuInfoSecLab** — Intentionally Vulnerable Web Apps for Pentest Training (XSS, SQLi, SSRF, Auth Bypass, etc.)  
   — https://github.com/dinhvaren/VhuInfoSecLab — Live: https://vhuinfosec.io.vn
 
-- **CVE-2026-33937 Lab** — Vulnerability Research & Exploit Lab (PoC, Analysis, Reproduction)  
+- **CVE-2026-33937 Lab** — Vulnerability Research & Exploit Lab (PoC, Analysis, Reproduction) 
   — https://github.com/dinhvaren/cve-2026-33937 — Live: https://freshshop.vhuinfosec.io.vn
 
-- **d1nhvar3n Cybersecurity Blog** — React + Markdown, deployed on Nginx  
-  — Live: https://blog.dinhvaren.io.vn  
 
 ## Certifications & Awards
 * Security Advisory Credit — PraisonAI CVE-2026-61430, CVE-2026-61429, CVE-2026-61428, CVE-2026-61427, CVE-2026-
