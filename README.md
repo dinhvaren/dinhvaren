@@ -1,8 +1,4 @@
-<h1 align="center">Dinh Nguyen</h1>
-
-<p align="center">
-Web Application Pentesting • Security Research • DevSecOps
-</p>
+<h1 align="center">d1nhv4r3n</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Web+Application+Security+Research;Offensive+Security+%7C+DevSecOps;Build+Break+Learn" />
@@ -14,7 +10,6 @@ Web Application Pentesting • Security Research • DevSecOps
 <img src="https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City-c0392b?style=for-the-badge"/>
 </p>
 
----
 
 ## About
 
