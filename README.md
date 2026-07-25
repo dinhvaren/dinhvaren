@@ -10,7 +10,6 @@
 <img src="https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City-c0392b?style=for-the-badge"/>
 </p>
 
-
 ## About
 
 Final-year Information Security student at Van Hien University (VHU).
@@ -29,8 +28,6 @@ Current areas of interest:
 Website: https://dinhvaren.io.vn
 
 Blog: https://blog.dinhvaren.io.vn
-
----
 
 ## Tech Stack
 
@@ -78,8 +75,6 @@ Blog: https://blog.dinhvaren.io.vn
 
 </p>
 
----
-
 ## Security Advisories
 
 | Year | Vendor | CVE |
@@ -97,16 +92,6 @@ Blog: https://blog.dinhvaren.io.vn
 | 2026 | 9router | [CVE-2026-55638](https://www.cve.org/CVERecord?id=CVE-2026-55638) |
 | 2026 | 9router | [CVE-2026-55501](https://www.cve.org/CVERecord?id=CVE-2026-55501) |
 
----
-
-## Awards
-
-- Security Advisory Credit — PraisonAI
-- Security Advisory Credit — React Router
-- Security Advisory Credit — 9router
-- Special Prize — Technology Innovation Contest 2025 (University Cluster 22)
-
----
 
 ## GitHub Activity
 
@@ -114,8 +99,6 @@ Blog: https://blog.dinhvaren.io.vn
 <img src="https://github-readme-stats.vercel.app/api?username=dinhvaren&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinhvaren&theme=tokyonight&hide_border=true" height="170"/>
 </p>
-
----
 
 ## Contact
 
