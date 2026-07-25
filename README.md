@@ -16,15 +16,6 @@ Final-year Information Security student at Van Hien University (VHU).
 
 My primary interests are Web Application Security, Vulnerability Research and Red Teaming. I enjoy researching vulnerabilities in modern web frameworks, reproducing CVEs, building vulnerable environments for security training, and publishing technical write-ups.
 
-Current areas of interest:
-
-- Web Application Pentesting
-- Vulnerability Research
-- Red Team
-- DevSecOps
-- Android Security
-- Binary Analysis
-
 Website: https://dinhvaren.io.vn
 
 Blog: https://blog.dinhvaren.io.vn
