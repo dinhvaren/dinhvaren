@@ -70,19 +70,18 @@ Blog: https://blog.dinhvaren.io.vn
 
 | Year | Vendor | CVE |
 |------|--------|-----|
-| 2026 | PraisonAI | [CVE-2026-61430](https://www.cve.org/CVERecord?id=CVE-2026-61430) |
-| 2026 | PraisonAI | [CVE-2026-61429](https://www.cve.org/CVERecord?id=CVE-2026-61429) |
-| 2026 | PraisonAI | [CVE-2026-61428](https://www.cve.org/CVERecord?id=CVE-2026-61428) |
-| 2026 | PraisonAI | [CVE-2026-61427](https://www.cve.org/CVERecord?id=CVE-2026-61427) |
-| 2026 | PraisonAI | [CVE-2026-61426](https://www.cve.org/CVERecord?id=CVE-2026-61426) |
-| 2026 | PraisonAI | [CVE-2026-60091](https://www.cve.org/CVERecord?id=CVE-2026-60091) |
-| 2026 | 9router | [CVE-2026-56678](https://www.cve.org/CVERecord?id=CVE-2026-56678) |
-| 2026 | 9router | [CVE-2026-56676](https://www.cve.org/CVERecord?id=CVE-2026-56676) |
-| 2026 | 9router | [CVE-2026-56675](https://www.cve.org/CVERecord?id=CVE-2026-56675) |
-| 2026 | React Router | [CVE-2026-55685](https://www.cve.org/CVERecord?id=CVE-2026-55685) |
-| 2026 | 9router | [CVE-2026-55638](https://www.cve.org/CVERecord?id=CVE-2026-55638) |
-| 2026 | 9router | [CVE-2026-55501](https://www.cve.org/CVERecord?id=CVE-2026-55501) |
-
+| 2026 | PraisonAI | <a href="https://www.cve.org/CVERecord?id=CVE-2026-61430"><img src="https://img.shields.io/badge/CVE--2026--61430-red?style=for-the-badge"></a> |
+| 2026 | PraisonAI | <a href="https://www.cve.org/CVERecord?id=CVE-2026-61429"><img src="https://img.shields.io/badge/CVE--2026--61429-red?style=for-the-badge"></a> |
+| 2026 | PraisonAI | <a href="https://www.cve.org/CVERecord?id=CVE-2026-61428"><img src="https://img.shields.io/badge/CVE--2026--61428-red?style=for-the-badge"></a> |
+| 2026 | PraisonAI | <a href="https://www.cve.org/CVERecord?id=CVE-2026-61427"><img src="https://img.shields.io/badge/CVE--2026--61427-red?style=for-the-badge"></a> |
+| 2026 | PraisonAI | <a href="https://www.cve.org/CVERecord?id=CVE-2026-61426"><img src="https://img.shields.io/badge/CVE--2026--61426-red?style=for-the-badge"></a> |
+| 2026 | PraisonAI | <a href="https://www.cve.org/CVERecord?id=CVE-2026-60091"><img src="https://img.shields.io/badge/CVE--2026--60091-red?style=for-the-badge"></a> |
+| 2026 | 9router | <a href="https://www.cve.org/CVERecord?id=CVE-2026-56678"><img src="https://img.shields.io/badge/CVE--2026--56678-red?style=for-the-badge"></a> |
+| 2026 | 9router | <a href="https://www.cve.org/CVERecord?id=CVE-2026-56676"><img src="https://img.shields.io/badge/CVE--2026--56676-red?style=for-the-badge"></a> |
+| 2026 | 9router | <a href="https://www.cve.org/CVERecord?id=CVE-2026-56675"><img src="https://img.shields.io/badge/CVE--2026--56675-red?style=for-the-badge"></a> |
+| 2026 | React Router | <a href="https://www.cve.org/CVERecord?id=CVE-2026-55685"><img src="https://img.shields.io/badge/CVE--2026--55685-red?style=for-the-badge"></a> |
+| 2026 | 9router | <a href="https://www.cve.org/CVERecord?id=CVE-2026-55638"><img src="https://img.shields.io/badge/CVE--2026--55638-red?style=for-the-badge"></a> |
+| 2026 | 9router | <a href="https://www.cve.org/CVERecord?id=CVE-2026-55501"><img src="https://img.shields.io/badge/CVE--2026--55501-red?style=for-the-badge"></a> |
 
 ## GitHub Activity
 
