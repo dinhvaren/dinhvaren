@@ -67,9 +67,10 @@ Blog: https://blog.dinhvaren.io.vn
 </p>
 
 ## Security Advisories
-
 | Year | Vendor | CVE |
 |------|--------|-----|
+| 2026 | Budibase | <a href="https://www.cve.org/CVERecord?id=CVE-2026-73305"><img src="https://img.shields.io/badge/CVE--2026--73305-red?style=for-the-badge"></a> |
+| 2026 | Nuxt | <a href="https://www.cve.org/CVERecord?id=CVE-2026-71321"><img src="https://img.shields.io/badge/CVE--2026--71321-red?style=for-the-badge"></a> |
 | 2026 | PraisonAI | <a href="https://www.cve.org/CVERecord?id=CVE-2026-61430"><img src="https://img.shields.io/badge/CVE--2026--61430-red?style=for-the-badge"></a> |
 | 2026 | PraisonAI | <a href="https://www.cve.org/CVERecord?id=CVE-2026-61429"><img src="https://img.shields.io/badge/CVE--2026--61429-red?style=for-the-badge"></a> |
 | 2026 | PraisonAI | <a href="https://www.cve.org/CVERecord?id=CVE-2026-61428"><img src="https://img.shields.io/badge/CVE--2026--61428-red?style=for-the-badge"></a> |
